@@ -11,6 +11,8 @@ Este projeto consiste em um script Python que atua como um **Gateway IoT (Bridge
    * **ThingSpeak:** Recebe dados estruturados em *fields* via **API REST (HTTP POST)**, respeitando limites de requisição.
 
 ---
+<img width="500" alt="arqui" src="https://github.com/user-attachments/assets/ffe9826b-4416-4112-a9a1-2b7f3fe06aa7" />
+
 
 ## 🚀 Pré-requisitos e Instalação
 
