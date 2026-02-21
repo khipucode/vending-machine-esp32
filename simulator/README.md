@@ -20,6 +20,8 @@ A aplicação funciona como um **dashboard visual / digital twin** da vending ma
 
 ---
 
+<img width="600" alt="Captura de tela de 2026-02-20 21-48-58" src="https://github.com/user-attachments/assets/f5106388-15aa-410f-87b3-fe36600ef920" />
+
 ## 🧠 Arquitetura do Sistema
 
 Web System / API  
